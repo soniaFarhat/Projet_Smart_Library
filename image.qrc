@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>AFFICHER.png</file>
+    </qresource>
+</RCC>
